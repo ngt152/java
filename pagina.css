@@ -1,0 +1,63 @@
+*{
+	margin: 0
+	padding:0;
+}
+
+
+p{
+	font-size: 20px;
+}
+#Cabecalho{
+	height: 175px;
+	background: red;
+	width: 90%;
+	margin: 0 auto;
+	border: 5px solid #000000;
+	
+
+}
+#Menu{
+	height: 300px;
+	width: 387px;
+	background: violet;
+	float: left;
+	margin-left:75px;
+	margin-top: 5px;
+	border: 5px solid #000000;
+
+
+}
+#Pagina{
+	height: 300px;
+	width: 600px;
+	background: yellow;
+	float: left;
+	margin-left:15px;
+	margin-top: 5px;
+	border: 5px solid #000000;
+
+}
+#Lado{
+	height: 300px;
+	width: 387px;
+	background:orange ;
+	float: left;
+	margin-left:15px;
+	margin-top: 5px;
+	border: 5px solid #000000;
+
+	
+}
+#Rodape{
+	height: 175px;
+	background: red ;
+    clear: both;
+    width: 90%;
+	margin: 0 auto;
+	margin-top: 325px;
+	border: 5px solid #000000;
+
+}
+#banner{
+	width: 400;
+}
